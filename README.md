@@ -1,1 +1,2 @@
-# trash_optimizator
+# TrashLocator
+JavaBootCamp project
